@@ -6,7 +6,7 @@ while (decimal > 0) {
     decimal /= 2; // Divide decimal number by 2
 }  
 
-return binary;
+return binary; 
 <!--
 **LWAZI-MANZI/lwazi-manzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
